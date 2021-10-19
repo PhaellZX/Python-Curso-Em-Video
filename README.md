@@ -4,7 +4,7 @@ Professor: Gustavo Guanabara
 Repósitório com projetos e aplicações feito em Python do Curso Em Video.
 
 comando: 
->>import this
+>> import this
 
 O Zen do Python, de Tim Peters
 
