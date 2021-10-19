@@ -2,7 +2,7 @@
 Professor: Gustavo Guanabara
 
 comando: 
->> import this
+>>import this
 
 O Zen do Python, de Tim Peters
 
