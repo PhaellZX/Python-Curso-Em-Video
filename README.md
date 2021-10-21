@@ -7,7 +7,7 @@ Códigos aprendidos:
 
 - print() -> Escrever na tela
 - input() -> entrada de dados do teclado
-- # -> Criar um comentário
+- (#) -> Criar um comentário
 - int() -> Converter para int
 - str() -> Converter para string
 
