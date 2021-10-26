@@ -3,14 +3,6 @@ Professor: Gustavo Guanabara
 
 Repósitório com projetos e aplicações feito em Python do Curso Em Video.
 
-Códigos aprendidos:
-
-- print() -> Escrever na tela
-- input() -> entrada de dados do teclado
-- (#) -> Criar um comentário
-- int() -> Converter para int
-- str() -> Converter para string
-
 comando: 
 >> import this
 
